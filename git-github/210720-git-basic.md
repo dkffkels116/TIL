@@ -13,6 +13,6 @@
 
 git add 후 git status로 확인하고 git commit 하기 
 
-##4단계
+## 4단계
 
 git push origin main 후 깃허브 홈페이지로 확인.
